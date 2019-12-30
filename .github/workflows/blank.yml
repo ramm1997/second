@@ -14,5 +14,5 @@ jobs:
     - name: docker version
       run: docker -v
     - name: python version
-      run: python --versdfafsion
+      run: python --version
     
